@@ -71,4 +71,10 @@ nav {
 
 main {
     background-color: rgba(215, 215, 215, 0.5);
+    margin-top: -16px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }
