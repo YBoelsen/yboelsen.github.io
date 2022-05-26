@@ -2,6 +2,7 @@ header {
     background: url('../images/zirkus.jpg')
         no-repeat center center;
     background-size: cover;
+    position: relative;
     height: 300px;
     text-align: center;
     display: flex;
